@@ -1,0 +1,17 @@
+/* Para verificar la optimizacion y estabilidad del sistema se realizaron pruebas 
+manuales en distintos escenarios para asegurar estabilidad del programa. esto 
+se manejo utilizando validaciones try-catch y por ejemplo en el Case 6 utilice 
+un par de iteraciones y la utilizacion de un filtro (c.getAgregarReserva == r.getIdReserva)
+para asegurar que el id de las reservas corresponda al de la compra hecha.
+
+Tambien se implementaron puntos de Debugging para verficiar el ingreso correcto 
+de valores en variables e iteraciones.
+
+Se uso una lista para manejar los identificadores de reserva los cuales luego de
+cada compra utiliza el add. para agregar un nuevo elemento/compra a la lista dando
+flexibilidad. El uso de listas y arreglos en el codigo logran que el programa sea 
+mas eficiente en especial para el tamaño del teatro.
+
+Se implemento el uso de Getters en algunos metodos para mejor manejo de valores 
+y mejorar la robustez como a su ves el mantenimiento del codigo, haciendo que sea
+mas facil de modificar y depurar en futuras versiones del codigo. */
