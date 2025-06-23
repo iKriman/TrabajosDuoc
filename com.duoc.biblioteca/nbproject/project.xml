@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://www.netbeans.org/ns/project/1">
+    <type>org.netbeans.modules.java.j2seproject</type>
+    <configuration>
+        <data xmlns="http://www.netbeans.org/ns/j2se-project/3">
+            <name>com.duoc.biblioteca</name>
+            <source-roots>
+                <root id="src.dir"/>
+            </source-roots>
+            <test-roots>
+                <root id="test.src.dir"/>
+            </test-roots>
+        </data>
+        <spellchecker-wordlist xmlns="http://www.netbeans.org/ns/spellchecker-wordlist/1">
+            <word>alfabetica</word>
+            <word>aseguramos</word>
+            <word>coleccion</word>
+            <word>consultar</word>
+            <word>creamos</word>
+            <word>cual</word>
+            <word>cuando</word>
+            <word>dicha</word>
+            <word>esta</word>
+            <word>estan</word>
+            <word>excepcion</word>
+            <word>forma</word>
+            <word>implementamos</word>
+            <word>ingresados</word>
+            <word>ingreso</word>
+            <word>libro</word>
+            <word>libros</word>
+            <word>lista</word>
+            <word>los</word>
+            <word>manejar</word>
+            <word>manejo</word>
+            <word>manera</word>
+            <word>mejor</word>
+            <word>muestre</word>
+            <word>ordenar</word>
+            <word>permitira</word>
+            <word>personalizada</word>
+            <word>por</word>
+            <word>que</word>
+            <word>queramos</word>
+            <word>registrara</word>
+            <word>se</word>
+            <word>sistema</word>
+            <word>solicitados</word>
+            <word>titulo</word>
+            <word>un</word>
+            <word>una</word>
+            <word>usaremos</word>
+            <word>usuarios</word>
+        </spellchecker-wordlist>
+    </configuration>
+</project>
